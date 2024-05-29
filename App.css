@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+}
+
+h1, h3 .App{
+text-align: center;
+}
+
+p{
+    margin-bottom: 5px;
+}
+
+button{
+    border-radius: 5px;
+    margin: 2px;
+    padding: 10px;
+    background-color: lightskyblue;
+    color: aliceblue;
+    font-weight: 700;
+}
+
+input{
+    border-radius: 5px;
+    margin: 2px;
+    padding: 10px;
+}
